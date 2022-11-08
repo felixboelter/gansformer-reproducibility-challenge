@@ -33,7 +33,7 @@ For the usage, go to the `colab notebooks` directory:
 - Run `Reproducibility_result_visualizer.ipynb` for the visualisation phase: here you can select the model that you want to use and generate random images, perform a symple interpolation of the latent space or even perform style mixing starting from a chosen target image.
 
 #### Results
-Reproducibility results for the GANFormer/StyleGAN2 hybrid. All of the results are found in the [Report](https://github.com/felixboelter/gansformer-reproducibility-challenge/blob/main/report/main.pdf)
+Reproducibility results for the GANFormer/StyleGAN2 hybrid. All of the results are found in the [Report](https://github.com/felixboelter/gansformer-reproducibility-challenge/blob/main/report/main.pdf).
 #### FID scores
 &emsp;&emsp;&emsp;&emsp;
 (1) FID scores for the cartoon dataset
